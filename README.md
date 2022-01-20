@@ -102,19 +102,19 @@
 
 ### My Projects ✨:
   
-<a href="https://github.com/SuwethaGovindaraj/Loan-Eligibility-Prediction ">
+<a href="https://github.com/SuwethaGovindaraj/Loan-Eligibility-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Loan-Eligibility-Prediction&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/ Flight-Fare-Prediction ">
+<a href="https://github.com/SuwethaGovindaraj/Flight-Fare-Prediction">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Flight-Fare-Prediction&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/Resume_Screening_model ">
+<a href="https://github.com/SuwethaGovindaraj/Resume_Screening_model">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Resume_Screening_model&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/Employee_Retention   ">
+<a href="https://github.com/SuwethaGovindaraj/Employee_Retention">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Employee_Retention&theme=tokyonight" />
 </a>
 
