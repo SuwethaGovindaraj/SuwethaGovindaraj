@@ -102,8 +102,8 @@
 
 ### My Projects ✨:
   
-<a href="https://github.com/SuwethaGovindaraj/Loan-Approval-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Loan-Approval-System&theme=tokyonight" />
+<a href="https://github.com/SuwethaGovindaraj/Loan_Approval_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Loan_Approval_System&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/SuwethaGovindaraj/Flight-Fare-Prediction">
