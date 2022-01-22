@@ -97,12 +97,7 @@
   <a href="https://github.com/SuwethaGovindaraj">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuwethaGovindaraj&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Suwetha's github stats" height="220px" />
   </a>
-  
-  <a href="https://github.com/SuwethaGovindaraj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwethaGovindaraj&theme=tokyonight" />
-  </a>
-  
-  
+
 -------
 
 ### My Projects ✨:
@@ -115,8 +110,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Flight-Fare-Prediction&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/Resume_Screening_model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Resume_Screening_model&theme=tokyonight" />
+<a href="https://github.com/SuwethaGovindaraj/Determining_Crop_Plantation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Determining_Crop_Plantation&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/SuwethaGovindaraj/Employee_Retention">
