@@ -98,6 +98,11 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuwethaGovindaraj&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Suwetha's github stats" height="220px" />
   </a>
   
+  <a href="https://github.com/SuwethaGovindaraj">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwethaGovindaraj&theme=tokyonight" />
+  </a>
+  
+  
 -------
 
 ### My Projects ✨:
@@ -119,13 +124,7 @@
 </a>
 
  
- ------
-  
- <a href="https://github.com/SuwethaGovindaraj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwethaGovindaraj&theme=tokyonight" />
-  </a>
-  
- ------
+ ------ 
   <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
