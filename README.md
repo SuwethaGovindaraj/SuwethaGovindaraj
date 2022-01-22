@@ -110,8 +110,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Flight-Fare-Prediction&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/Determining_Crop_Plantation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Determining_Crop_Plantation&theme=tokyonight" />
+<a href="https://github.com/SuwethaGovindaraj/Determining_Crop_Plantation-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Determining_Crop_Plantation-&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/SuwethaGovindaraj/Employee_Retention">
