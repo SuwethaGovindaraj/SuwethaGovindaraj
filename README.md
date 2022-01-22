@@ -120,6 +120,12 @@
 
  
  ------
+  
+ <a href="https://github.com/SuwethaGovindaraj">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuwethaGovindaraj&theme=tokyonight" />
+  </a>
+  
+ ------
   <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
