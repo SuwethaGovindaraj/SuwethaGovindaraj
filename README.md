@@ -10,9 +10,7 @@
   <a href="https://github.com/SuwethaGovindaraj">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://wa.me/9894087889">
-    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
+  
 </p>
 <h3 align="center">A Decision Science Student at Coimbatore Institute of Technology who is currently looking for an   
   6 months internship in MAY 2022 . </h3>
