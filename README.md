@@ -12,7 +12,7 @@
   </a><span>&nbsp;</span>
   
 </p>
-<h3 align="center">A Decision Science Student at Coimbatore Institute of Technology who is currently looking for an   
+<h3 align="center">A Decision Science Student at Coimbatore Institute of Technology interested in Business Analytics who is currently looking for an   
   6 months internship in MAY 2022 . </h3>
 <br>
 <br>
