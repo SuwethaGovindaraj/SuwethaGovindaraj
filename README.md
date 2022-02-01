@@ -104,8 +104,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Loan_Approval_System&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/Flight-Fare-Prediction">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Flight-Fare-Prediction&theme=tokyonight" />
+<a href="https://github.com/SuwethaGovindaraj/Flight_Fare_Prediction">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Flight_Fare_Prediction&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/SuwethaGovindaraj/Determining_Crop_Plantation-">
