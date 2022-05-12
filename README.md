@@ -104,8 +104,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Loan_Approval_System&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/CardioVascular_Disease_Prediction">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=CardioVascular_Disease_Prediction&theme=tokyonight" />
+<a href="https://github.com/SuwethaGovindaraj/Resume_Screening_model">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Resume_Screening_model&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/SuwethaGovindaraj/Determining_Crop_Plantation-">
