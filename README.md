@@ -112,9 +112,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Determining_Crop_Plantation-&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/SuwethaGovindaraj/Employee_Retention">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SuwethaGovindaraj&repo=Employee_Retention&theme=tokyonight" />
-</a>
+
 
  
  ------ 
