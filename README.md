@@ -12,7 +12,7 @@
   </a><span>&nbsp;</span>
   
 </p>
-<h3 align="center">Highly motivated and results-driven fresher with a strong interest in data science, analytics, and software development.Currently pursuing M.Sc Decision and Computing Sciences at Coimbatore Institute of Technology .</h3>
+<h3 align="center">Highly motivated and results-driven fresher with a strong interest in data science, analytics, and software development. Currently pursuing M.Sc Decision and Computing Sciences at Coimbatore Institute of Technology.</h3>
 <br>
 <br>
 
